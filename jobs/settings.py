@@ -13,6 +13,7 @@ SECRET_KEY = '@pzqp#x^+#(olu#wy(6=mi9&a8n+g&x#af#apn07@j=5oin=xb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+ALLOWED_HOSTS = ['127.0.0.1','jobsearchplacement.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
